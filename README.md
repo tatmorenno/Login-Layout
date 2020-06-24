@@ -1,8 +1,10 @@
 <h1 align="center">
 # Login-Layout
 
-<img src="https://github.com/tatmorenno/Login-Layout/blob/master/app/img/login%20app.png" width="300" height="600"/>
+<img src="https://github.com/tatmorenno/Login-Layout/blob/master/app/img/login%20app.png" width="700" height="400"/>
 </h1>
+
+</br>
 
 # ABOUT 📲
 
