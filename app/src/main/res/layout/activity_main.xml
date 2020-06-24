@@ -75,10 +75,13 @@
         android:text="Login"
         android:textAllCaps="false"
         android:background="@drawable/btn_bg"/>
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Esqueceu da senha?"/>
+        android:text="Esqueceu da senha?"
+        app:layout_constraintBottom_toBottomOf="parent"
+        tools:layout_editor_absoluteX="89dp" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
