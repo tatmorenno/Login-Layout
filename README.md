@@ -1,13 +1,13 @@
 <h1 align="center">
  Login Layout
- </br>
+ <br/>
  
  ---
 
 <img src="https://github.com/tatmorenno/Login-Layout/blob/master/app/img/login%20app.png" width="450" height="400"/>
 </h1>
 
-</br>
+<br/>
 
 ## 📲 ABOUT
 
