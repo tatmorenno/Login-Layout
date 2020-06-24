@@ -2,13 +2,13 @@
 #Login-Layout
   </br>
 
-<img src="https://github.com/tatmorenno/Login-Layout/blob/master/app/img/login%20app.png" width="550" height="400"/>
+<img src="https://github.com/tatmorenno/Login-Layout/blob/master/app/img/login%20app.png" width="500" height="400"/>
 </h1>
 
 </br>
 
 ---
-# ABOUT 📲
+# 📲 ABOUT
 
 **Login Layout** it's a simple graphical login layout implementation for Android.
 
