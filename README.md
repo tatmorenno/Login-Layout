@@ -1,5 +1,5 @@
 <h1 align="center">
-# Login-Layout
+ Login Layout
   </br>
 
 <img src="https://github.com/tatmorenno/Login-Layout/blob/master/app/img/login%20app.png" width="500" height="400"/>
