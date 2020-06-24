@@ -2,11 +2,10 @@
  Login Layout
 
 <br/>
- 
- ---
 
 <img src="https://github.com/tatmorenno/Login-Layout/blob/master/app/img/login%20app.png" width="450" height="400"/>
 
+</h1>
 
 ## 📲 ABOUT
 
@@ -18,5 +17,3 @@
 - [Android Studio](https://developer.android.com/studio)
 
 Developed by [Tatiana Emília Moreno](https://www.linkedin.com/in/tatmorenno/) 🤩
-
-</h1>
