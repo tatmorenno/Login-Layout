@@ -9,7 +9,6 @@
 
 </br>
 
----
 ## 📲 ABOUT
 
 **Login Layout** it's a simple graphical login layout implementation for Android.
